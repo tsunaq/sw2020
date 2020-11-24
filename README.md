@@ -1,6 +1,6 @@
 # 2020년 SW중심대학 전자공학부 연계전공(IT융합)
 
-[summary.md ](https://github.com/tsunaq/sw2020/blob/main/summary.md)  
+[summary.md 바로가기](https://github.com/tsunaq/sw2020/blob/main/summary.md)  
 
 [01. 논리회로](https://github.com/tsunaq/SW_Logic_Circuits)  
 [02. 지료구조](https://github.com/tsunaq/SW_Data_Structure)  
