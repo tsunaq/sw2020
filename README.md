@@ -12,3 +12,4 @@
 [08. 마이크로프로세서설계실험](https://github.com/tsunaq/SW_Microprocessors_Capstone_Design_Lab)  
 [09. 수치해석](https://github.com/tsunaq/SW_Numerical_Analysis)  
 [10. 컴퓨터학개론](https://github.com/tsunaq/SW_Introduction_to_Computer_Science_and_Engineering)  
+[11. 경북대학교 수강신청 프로그램](https://github.com/tsunaq/SW_Course_Registration/blob/main/README.md)  
