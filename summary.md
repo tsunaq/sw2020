@@ -29,7 +29,7 @@
 #### Verilog HDL 언어 및 실습 보드를 이용하여 울산대학교 정문 사거리 신호등 설계
 
 
-# 2019학년도 1학기 (경북대학교)
+## 2019학년도 1학기 (경북대학교)
 
 ### [07. 마이크로프로세서](https://github.com/tsunaq/SW_Microprocessors)  
 
@@ -40,13 +40,16 @@
 #### PIC16F876A 및 어셈블리어를 이용하여 디지털 시계 제작
 
 ## 2019학년도 2학기 (경북대학교)
+
 ### [09. 수치해석](https://github.com/tsunaq/SW_Numerical_Analysis)  
 
 #### MATLAB을 이용해 Taylor Series, Power Method 구현
 
 ## 2020학년도 1학기 (경북대학교)
+
 ### [10. 컴퓨터학개론](https://github.com/tsunaq/SW_Introduction_to_Computer_Science_and_Engineering)  
 
 #### MIT App Inventor를 이용하여 간단한 안드로이드 어플리케이션 제작
 
 # Ⅱ 자율과제형 
+### [경북대학교 수강신청 프로그램](https://github.com/tsunaq/SW_Course_Registration/blob/main/README.md)  
