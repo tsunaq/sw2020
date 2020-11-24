@@ -3,7 +3,7 @@
 ## [summary.md 바로가기](https://github.com/tsunaq/sw2020/blob/main/summary.md)  
 
 [01. 논리회로](https://github.com/tsunaq/SW_Logic_Circuits)  
-[02. 지료구조](https://github.com/tsunaq/SW_Data_Structure)  
+[02. 자료구조](https://github.com/tsunaq/SW_Data_Structure)  
 [03. 컴퓨터구조](https://github.com/tsunaq/SW_Computer_Architectures)  
 [04. 자바프로그래밍](https://github.com/tsunaq/SW_Java_Programming)  
 [05. 리눅스시스템및실험](https://github.com/tsunaq/SW_Linux_System_and_Lab)  
