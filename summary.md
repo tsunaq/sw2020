@@ -52,4 +52,4 @@
 #### MIT App Inventor를 이용하여 간단한 안드로이드 어플리케이션 제작
 
 # Ⅱ 자율과제형 
-### [경북대학교 수강신청 프로그램](https://github.com/tsunaq/SW_Course_Registration/blob/main/README.md)  
+### [경북대학교 수강신청 프로그램(2주)](https://github.com/tsunaq/SW_Course_Registration/blob/main/README.md)  
