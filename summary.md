@@ -31,23 +31,23 @@
 
 ## 2019학년도 1학기 (경북대학교)
 
-### [07. 마이크로프로세서(ELEC323002)](https://github.com/tsunaq/SW_Microprocessors)  
+### [07. 마이크로프로세서(ELEC323002, 박대진 교수님)](https://github.com/tsunaq/SW_Microprocessors)  
 
 #### 수업시간을 통해 만든 tPU 프로세서를 이용하여 3X3 행렬 곱셈, 작성된 C언어 어셈블리어 표현, 5X5 행렬 곱셈 수행
 
-### [08. 마이크로프로세서설계실험(EECS326001)](https://github.com/tsunaq/SW_Microprocessors_Capstone_Design_Lab)  
+### [08. 마이크로프로세서설계실험(EECS326001, 이인수 교수님)](https://github.com/tsunaq/SW_Microprocessors_Capstone_Design_Lab)  
 
 #### PIC16F876A 및 어셈블리어를 이용하여 디지털 시계 제작
 
 ## 2019학년도 2학기 (경북대학교)
 
-### [09. 수치해석(STAT452006)](https://github.com/tsunaq/SW_Numerical_Analysis)  
+### [09. 수치해석(STAT452006, 김호희 교수님)](https://github.com/tsunaq/SW_Numerical_Analysis)  
 
 #### MATLAB을 이용해 Taylor Series, Power Method 구현
 
 ## 2020학년도 1학기 (경북대학교)
 
-### [10. 컴퓨터학개론(ITEC201005)](https://github.com/tsunaq/SW_Introduction_to_Computer_Science_and_Engineering)  
+### [10. 컴퓨터학개론(ITEC201005, 김호희 교수님)](https://github.com/tsunaq/SW_Introduction_to_Computer_Science_and_Engineering)  
 
 #### MIT App Inventor를 이용하여 간단한 안드로이드 어플리케이션 제작
 
